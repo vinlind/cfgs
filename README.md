@@ -1,2 +1,2 @@
 # cfgs
-my config and autoexec files for source games
+my configs and autoexec files for source games
