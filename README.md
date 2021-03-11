@@ -1,5 +1,5 @@
 # cfgs
-my configs and autoexec files for source games
+my configs, scripts and autoexec files for source games
 
 while i do provide comments on some parts these files, they are mainly made for myself. many many cvars are not explained adequately or at all.
 
