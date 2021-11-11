@@ -1,5 +1,5 @@
 # Apex Legends
-launch options: `-dev -console -high +exec autoexec.cfg`
+launch options: `+exec autoexec +fps_max 200 -dev -novid`
 
 _**autoexec.cfg**_ goes in the `cfg/` folder where Apex is installed. for me thats **"D:/SteamLibrary/steamapps/common/Apex Legends/cfg/"**
 
