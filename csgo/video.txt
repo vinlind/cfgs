@@ -1,10 +1,10 @@
 "VideoConfig"
 {
-	"setting.cpu_level"		"1"
-	"setting.gpu_level"		"1"
+	"setting.cpu_level"		"0"
+	"setting.gpu_level"		"2"
 	"setting.mat_antialias"		"0"
 	"setting.mat_aaquality"		"0"
-	"setting.mat_forceaniso"		"16"
+	"setting.mat_forceaniso"		"2"
 	"setting.mat_vsync"		"0"
 	"setting.mat_triplebuffered"		"0"
 	"setting.mat_grain_scale_override"		"-1.000000"
