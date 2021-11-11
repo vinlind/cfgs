@@ -7,6 +7,7 @@ i use [RawAccel](https://github.com/a1xd/rawaccel) for mouse acceleration, my cu
 
 
 
+
 while i do provide comments on some parts these files, they are mainly made for myself. most cvars are not explained adequately or at all.
 
 feel free to use and edit these as much as you'd like i really dont give a shit if you steal them
