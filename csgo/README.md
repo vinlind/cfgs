@@ -1,5 +1,5 @@
 # CS:GO
-launch options: `+exec autoexec.cfg -tickrate 128 +fps_max 0 -novid -language vcustom -fullscreen -allow_third_party_software -w 1920 -h 1080`
+launch options: `+exec autoexec.cfg -tickrate 128 +fps_max 0 -novid -allow_third_party_software -language vcustom -fullscreen -w 1280 -h 960`
 
 files starting with a bang are scripts that i execute manually to change things like my viewmodel and crosshair while in-game
 
